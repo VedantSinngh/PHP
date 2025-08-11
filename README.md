@@ -30,6 +30,3 @@
 > * Professional but approachable.
 > * Suitable for both technical and non-technical audiences.
 > * Written in **active voice**, highlighting value and use case.
-
-
-If you want, I can now actually **use this prompt** and give you the **final description text** for your README so it’s already done.
